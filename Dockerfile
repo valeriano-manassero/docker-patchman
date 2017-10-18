@@ -2,7 +2,7 @@ FROM centos:7
 
 MAINTAINER Valeriano Manassero https://github.com/valeriano-manassero
 
-ENV PATCHMAN_VERSION 1.6.2-1
+ENV PATCHMAN_VERSION 1.7.0-1
 
 RUN yum -y update \
     && yum -y install wget \
