@@ -24,7 +24,7 @@ patchman_web is the place where resides the domains filesystem to scan
 
 patchman_conf is where you need to put files according to this guide https://patchman.zendesk.com/hc/en-us/articles/206434944-Using-Patchman-with-a-non-standard-control-panel
 
-patchman logs is the folder where patchman puts logs itself
+patchman_logs is the folder where patchman puts logs itself
 
 patchman_etc is the folder where patchman puts license files (needed to persist the registration and avoid re-registering the node)
 
